@@ -57,12 +57,12 @@ Currently pursuing a **Master’s in Data Analytics @ San Jose State University*
 
 ## 🛠️ Tech Toolbox  
 - **Languages:** Python, SQL, React, HTML/CSS  
-- **Data Engineering:** Spark, Airflow, DBT, Kafka  
+- **Data Engineering:** Spark, Airflow, DBT, Kafka 
 - **Cloud:** GCP (BigQuery, GCS), AWS (S3, Redshift, Glue)  
 - **Databases:** MySQL, Snowflake, MongoDB  
 - **ML/DL:** Scikit-learn, PyTorch, TensorFlow, Hugging Face  
-- **Generative AI:** LangChain, LangGraph, LoRA, LLM Agents  
-- **Visualization:** Power BI, Tableau, Plotly  
+- **Generative AI:** LangChain, LangGraph, LoRA, LLM Agents , Transformers 
+- **Visualization:** Power BI, Tableau, Plotly , Grafana
 
 
 ## 📬 Contact  

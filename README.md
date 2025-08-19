@@ -66,7 +66,8 @@ Currently pursuing a **Master’s in Data Analytics @ San Jose State University*
 
 
 ## 📬 Contact  
-- 📧 Email: **nagasaisindhura.pandrangi@sjsu.edu**  
+- 📧 Personal Email: **psindhu1905@gmail.com**
+- 📧 College Email: **nagasaisindhura.pandrangi@sjsu.edu**  
 - 💼 LinkedIn: [linkedin.com/in/sindhurapandrangi](https://linkedin.com/in/sindhurapandrangi)  
 
 ---

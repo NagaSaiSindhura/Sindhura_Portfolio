@@ -10,7 +10,7 @@ Currently pursuing a **Master’s in Data Analytics @ San Jose State University*
 
 - 🔹 **4+ years** of experience in **data engineering & analytics** (ETL, pipelines, dashboards).  
 - 🔹 Strong foundation in **Python, SQL, Spark, Airflow, GCP, AWS**.  
-- 🔹 Hands-on with **ML/DL models, LLMs, and Generative AI**.  
+- 🔹 Proficient in using **ML/DL models, LLMs, and Generative AI concepts**.  
 - 🔹 Skilled at delivering measurable impact through **faster pipelines, accurate predictions, and insightful dashboards**.  
 
 ---

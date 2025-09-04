@@ -7,7 +7,9 @@ Data Engineer | Data Analyst | AI & Generative AI Specialist
 I design data pipelines, machine learning systems, and generative AI solutions that transform raw data into business impact. With a strong background in data engineering and applied machine learning, I specialize in scalable pipelines, intelligent models, and production-ready AI applications.
 
 🎓 Pursuing M.S. in Data Analytics at San José State University, focusing on Generative AI, Data Engineering, and Applied ML.
+
 💼 4+ years of professional experience in data engineering & analytics (ETL, pipelines, BI dashboards).
+
 
 🏆 **Career Highlights**
 

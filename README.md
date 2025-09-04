@@ -1,15 +1,15 @@
-🚀 Portfolio – Naga Sai Sindhura Pandrangi
+🚀 **Portfolio – Naga Sai Sindhura Pandrangi**
 
 Data Engineer | Data Analyst | AI & Generative AI Specialist
 
-👩‍💻 About Me
+👩‍💻 **About Me**
 
 I design data pipelines, machine learning systems, and generative AI solutions that transform raw data into business impact. With a strong background in data engineering and applied machine learning, I specialize in scalable pipelines, intelligent models, and production-ready AI applications.
 
 🎓 Pursuing M.S. in Data Analytics at San José State University, focusing on Generative AI, Data Engineering, and Applied ML.
 💼 4+ years of professional experience in data engineering & analytics (ETL, pipelines, BI dashboards).
 
-🏆 Career Highlights
+🏆 **Career Highlights**
 
 ⚡ Reduced ETL runtime by 40% using Airflow + PySpark on GCP.
 
@@ -21,7 +21,7 @@ I design data pipelines, machine learning systems, and generative AI solutions t
 
 📚 Increased user engagement by 24% with a personalized recommendation system.
 
-🚀 Featured Projects
+🚀 **Featured Projects**
 
 1️⃣ Full-Stack Agentic Text2SQL Framework
 
@@ -67,7 +67,7 @@ SQL + Power BI dashboard with DAX-driven KPIs.
 
 Drill-downs by time, severity, and location.
 
-🛠️ Tech Toolbox
+🛠️ **Tech Stack**
 
 Languages: Python, SQL, React, HTML/CSS
 
@@ -79,7 +79,7 @@ Databases: MySQL, Snowflake, MongoDB
 
 ML/DL: Scikit-learn, PyTorch, TensorFlow, Hugging Face
 
-Generative AI: LangChain, LangGraph, LoRA, LLM Agents, Transformers
+Generative AI: LangChain, LangGraph, LoRA, LLM Agents, Transformers, RAG
 
 Visualization: Power BI, Tableau, Plotly, Grafana
 

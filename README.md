@@ -1,74 +1,94 @@
-# Sindhura_Portfolio
-This portfolio highlights my expertise in Data Engineering, Machine Learning, and Generative AI — building scalable pipelines, intelligent models, and impactful AI solutions.
+🚀 Portfolio – Naga Sai Sindhura Pandrangi
 
+Data Engineer | Data Analyst | AI & Generative AI Specialist
 
-# 📊 Portfolio – Naga Sai Sindhura Pandrangi  
-**Data Engineer | Data Analyst | AI & Generative AI Enthusiast**  
-## 👩‍💻 About Me  
-I build **data pipelines, machine learning solutions, and AI systems** that turn raw information into **actionable insights**.  
-Currently pursuing a **Master’s in Data Analytics @ San Jose State University**, focusing on **Generative AI, Data Engineering, and Applied Machine Learning**.  
+👩‍💻 About Me
 
-- 🔹 **4+ years** of experience in **data engineering & analytics** (ETL, pipelines, dashboards).  
-- 🔹 Strong foundation in **Python, SQL, Spark, Airflow, GCP, AWS**.  
-- 🔹 Proficient in using **ML/DL models, LLMs, and Generative AI concepts**.  
-- 🔹 Skilled at delivering measurable impact through **faster pipelines, accurate predictions, and insightful dashboards**.  
+I design data pipelines, machine learning systems, and generative AI solutions that transform raw data into business impact. With a strong background in data engineering and applied machine learning, I specialize in scalable pipelines, intelligent models, and production-ready AI applications.
 
----
+🎓 Pursuing M.S. in Data Analytics at San José State University, focusing on Generative AI, Data Engineering, and Applied ML.
+💼 4+ years of professional experience in data engineering & analytics (ETL, pipelines, BI dashboards).
 
-## 🏆 Key Highlights  
-- ⚡ Cut ETL pipeline runtime by **40%** (Airflow + PySpark, GCP).  
-- 📊 Delivered Power BI dashboards with **99.5% data integrity** at S&P Global.  
-- 🎥 Built DeepFake detector with **97.01% accuracy** and **0.988 ROC-AUC**.  
-- 🤖 Developed AI Mock Interviewer (Mistral-7B, RAG) with **85% accuracy**.  
-- 📚 Increased user engagement by **24%** with a recommendation system.  
+🏆 Career Highlights
 
----
+⚡ Reduced ETL runtime by 40% using Airflow + PySpark on GCP.
 
-## 🚀 Featured Projects  
+📊 Delivered Power BI dashboards with 99.5% data accuracy at S&P Global.
 
-### 1️⃣ [Full-Stack Agentic Text2SQL Framework](Generative_AI/Text2SQL_Agent)  
-- Fine-tuned **Llama-3.1-8B** → BLEU score improved from **0.38 → 0.5158**.  
-- Built **Streamlit UI** and agent for schema-aware reasoning.  
+🎥 Built DeepFake video detector with 97.01% accuracy and 0.988 ROC-AUC.
 
-### 2️⃣ [DeepFake Video Detection](Machine_Learning/DeepFake_Detection)  
-- Multi-model fusion (**XceptionNet + ResNet-BiLSTM**).  
-- Achieved **97.01% accuracy**, reduced GPU usage by **40%** with mixed precision.  
+🤖 Developed AI Mock Interviewer (Mistral-7B + RAG) with 85% evaluation accuracy.
 
-### 3️⃣ [AI Mock Interviewer](Machine_Learning/AI_Mock_Interviewer)  
-- RAG + fine-tuned **Mistral-7B (LoRA)**.  
-- **85% accurate** in answer evaluation.  
-- Backend: **Next.js + Node.js on GCP (Docker)**.  
+📚 Increased user engagement by 24% with a personalized recommendation system.
 
-### 4️⃣ [Smart Book Recommendation System](Data_Engineering/Smart_Book_RecSys)  
-- Hybrid recommender (**ALS + TF-IDF** on PySpark).  
-- Boosted user engagement by **24%**.  
+🚀 Featured Projects
 
-### 5️⃣ [Cricket Match Win Predictor](Data_Engineering/Cricket_Match_Pred)  
-- Built ML pipeline (**Random Forest + XGBoost**).  
-- Achieved **91.6% accuracy**, deployed via Flask web app.  
+1️⃣ Full-Stack Agentic Text2SQL Framework
 
-### 6️⃣ [Automated ETL + KPI Dashboard (NYT Data)](Data_Engineering/Automated_ETL_GCP)  
-- Automated pipeline with **Airflow + DBT on GCP**.  
-- Processed **100K+ records daily** with **95% on-time delivery**.  
+Fine-tuned Llama-3.1-8B → improved BLEU score 0.38 → 0.5158.
 
-### 7️⃣ [California Road Safety Dashboard](Machine_Learning/Road_Safety_Dashboard)  
-- SQL + Power BI dashboard with **DAX-based KPIs**.  
-- Drill-downs by **time, severity, location**.  
+Built Streamlit UI + schema-aware reasoning agent.
 
-## 🛠️ Tech Toolbox  
-- **Languages:** Python, SQL, React, HTML/CSS  
-- **Data Engineering:** Spark, Airflow, DBT, Kafka 
-- **Cloud:** GCP (BigQuery, GCS), AWS (S3, Redshift, Glue)  
-- **Databases:** MySQL, Snowflake, MongoDB  
-- **ML/DL:** Scikit-learn, PyTorch, TensorFlow, Hugging Face  
-- **Generative AI:** LangChain, LangGraph, LoRA, LLM Agents , Transformers 
-- **Visualization:** Power BI, Tableau, Plotly , Grafana
+2️⃣ DeepFake Video Detection
 
+Multi-model fusion (XceptionNet + ResNet-BiLSTM).
 
-## 📬 Contact  
-- 📧 Personal Email: **psindhu1905@gmail.com**
-- 📧 College Email: **nagasaisindhura.pandrangi@sjsu.edu**  
-- 💼 LinkedIn: [linkedin.com/in/sindhurapandrangi](https://linkedin.com/in/sindhurapandrangi)  
+97.01% accuracy, 40% GPU reduction with mixed precision.
 
----
-⭐ *This portfolio highlights how I combine data engineering, ML, and GenAI to deliver measurable results.*
+3️⃣ AI Mock Interviewer
+
+RAG + fine-tuned Mistral-7B (LoRA).
+
+85% accurate in answer evaluation.
+
+Backend: Next.js + Node.js on GCP (Docker).
+
+4️⃣ Smart Book Recommendation System
+
+Hybrid model (ALS + TF-IDF on PySpark).
+
+Boosted user engagement +24%.
+
+5️⃣ Cricket Match Win Predictor
+
+ML pipeline (Random Forest + XGBoost).
+
+91.6% accuracy, deployed with Flask.
+
+6️⃣ Automated ETL + KPI Dashboard (NYT Data)
+
+Airflow + DBT on GCP.
+
+Processed 100K+ records daily with 95% on-time delivery.
+
+7️⃣ California Road Safety Dashboard
+
+SQL + Power BI dashboard with DAX-driven KPIs.
+
+Drill-downs by time, severity, and location.
+
+🛠️ Tech Toolbox
+
+Languages: Python, SQL, React, HTML/CSS
+
+Data Engineering: Spark, Airflow, DBT, Kafka
+
+Cloud: GCP (BigQuery, GCS), AWS (S3, Redshift, Glue)
+
+Databases: MySQL, Snowflake, MongoDB
+
+ML/DL: Scikit-learn, PyTorch, TensorFlow, Hugging Face
+
+Generative AI: LangChain, LangGraph, LoRA, LLM Agents, Transformers
+
+Visualization: Power BI, Tableau, Plotly, Grafana
+
+📬 Contact
+
+📧 Email (Personal): psindhu1905@gmail.com
+
+📧 Email (University): nagasaisindhura.pandrangi@sjsu.edu
+
+💼 LinkedIn: linkedin.com/in/sindhurapandrangi
+
+💻 GitHub: github.com/NagaSaiSindhura

@@ -1,6 +1,6 @@
 🚀 **Portfolio – Naga Sai Sindhura Pandrangi**
 
-Data Engineer | Data Analyst | AI & Generative AI Specialist
+**Data Engineer | Data Analyst | AI & Generative AI Specialist**
 
 👩‍💻 **About Me**
 
